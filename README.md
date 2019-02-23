@@ -1,8 +1,5 @@
-# ruborobo
-A stupid Ruby project by ry00001  
-
-## Why?
-I wanna learn Ruby.  
+# attey
+A bot for the @arcade Discord text game arcade, offering room creation, settings, and more.
 
 ## How do I run it?
 Are you *sure* you want to?  
@@ -11,10 +8,12 @@ Are you *sure* you want to?
 Are you *really, really* sure you want to???
 
 ### Yes!
-oi look at CONFIGURING.md you hec
+Take a look at CONFIGURING.md.
 
 ## Who made this?
-Me, @ry00001, with help from @Seriell and @TrenchFroast.
+@taciturasa and @ry00001.
+
+A derivative of ruborobo by @ry00001, @Seriell, and @TrenchFroast.
 
 ## Disclaimer
 Me or any of the other developers are not responsible for anything that happens to your computer while running this software.  
