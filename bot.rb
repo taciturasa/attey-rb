@@ -1,7 +1,7 @@
-# ruborobo - a ruby testing bot
-# (C) 2018 Team ruborobo (ry00001, Erisa Arrowsmith (Seriel))
+# attey - a ruby bot for @arcade
+# (C) 2019 @arcade (ry00001, taciturasa)
 
-module Ruborobo
+module Attey
     require 'discordrb' # meme
     require 'yaml'
     require 'commandorobo'
